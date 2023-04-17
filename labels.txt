@@ -1,0 +1,3 @@
+0 No mask
+1 Wearing mask
+2 No face detected
